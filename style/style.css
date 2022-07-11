@@ -1,6 +1,7 @@
 body{
     margin: 0px;
-    background-color: #eefff8;
+    background: rgb(238,255,248);
+    background: linear-gradient(90deg, rgba(238,255,248,1) 0%, rgba(245,255,251,1) 100%);
 }
 
 .navbar {

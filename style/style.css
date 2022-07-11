@@ -1,14 +1,16 @@
 body{
     margin: 0px;
+    background-color: #eefff8;
 }
 
 .navbar {
     display: flex;
     justify-content: space-between;
-    background: #023535;
+    background: rgb(2,53,53);
+    background: linear-gradient(90deg, rgba(2,53,53,1) 0%, rgba(1,89,88,1) 100%);
     padding-left: 2%;
     padding-right: 2%;
-    margin-bottom: 50px;
+    margin-bottom: 25vh;
 }
 
 .name{
@@ -28,12 +30,22 @@ a{
 h1 a{
     color: white;
 }
-.pageName{
+
+.titulo{
     text-align: center;
-    color: #4C5958;
+    font-size: 40px;
+    margin-bottom:  0px;
 }
+
+.subtitulo{
+    margin-top: 0px;
+    text-align: center;
+    font-size: 20px;
+    margin-bottom: 50vh;
+}
+
 h1, h2, h3{
-    color: #4C5958;
+    color: #015958;
 }
 
 p{
@@ -50,6 +62,7 @@ p{
 .listaNav{
     display: inline;
 }
+
 .listaNav a{
     color: white;
     text-align: center;

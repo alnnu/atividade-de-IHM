@@ -1,0 +1,62 @@
+body{
+    margin: 0px;
+}
+
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    background: #023535;
+    padding-left: 2%;
+    padding-right: 2%;
+    margin-bottom: 50px;
+}
+
+.name{
+    font-size: 20px;
+    text-align: center;
+}
+
+main{
+    margin-right: 2%;
+    margin-left: 2%;
+}
+a{
+    color: black;
+    text-decoration: none;
+}
+
+h1 a{
+    color: white;
+}
+.pageName{
+    text-align: center;
+    color: #4C5958;
+}
+h1, h2, h3{
+    color: #4C5958;
+}
+
+p{
+    text-align: justify;
+    text-justify: inter-word;
+}
+
+.botoesNav{
+    margin-top: 15px;
+    padding: 0px;
+    list-style-type: none;
+}
+
+.listaNav{
+    display: inline;
+}
+.listaNav a{
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+.listaNav a:hover{
+    color: #C7FFED;
+}

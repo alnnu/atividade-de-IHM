@@ -1,0 +1,38 @@
+h2{
+    text-align: center;
+}
+
+.formasDeContato ul li{
+    text-align: center;
+}
+
+.formasDeContato ul{
+   display: flex;
+    justify-content: center;
+    list-style-type: none;
+}
+
+form {
+    display: flex;
+    justify-content: center;
+}
+
+form div input{
+    height: 25px;
+    width: 250px;
+}
+
+#interesse{
+    height: 25px;
+    width: 250px;
+}
+
+form div{
+    margin-left: 5%;
+}
+
+#mensagem{
+    height: 200px;
+    width: 415px;
+}
+

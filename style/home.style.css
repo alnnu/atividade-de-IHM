@@ -32,3 +32,38 @@
     text-align: justify;
     text-justify: inter-word;
 }
+.numeros{
+    margin-top: 24vh;
+}
+.numeros div h2{
+    font-size: 35px;
+    text-align: center;
+}
+
+#lista_de_dados{
+    width: auto;
+    margin: auto;
+}
+
+#lista_de_dados ul{
+
+    margin-top: 10vh;
+    padding: 0px;
+    list-style-type: none;
+    display: flex;
+    justify-content: center;
+}
+#lista_de_dados ul li{
+
+    font-size: 18px;
+    text-align: center;
+    display: inline;
+    width: 200px;
+}
+
+#item-meio{
+    padding: 0% 2% 0% 2%;
+    border-left: solid 2px #008F8C;
+    border-right: solid 2px #008F8C;
+}
+

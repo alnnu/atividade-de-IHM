@@ -71,6 +71,19 @@ p{
     text-decoration: none;
 }
 
-.listaNav a:hover{
+.listaNav a:hover, footer a:hover{
     color: #C7FFED;
+}
+footer{
+    margin-top: 24vh;
+    background-color: rgb(2,53,53);
+    display: flex;
+    justify-content: center;
+}
+footer #meio{
+    margin:0% 5% 0% 5%;
+}
+
+footer h4,footer a,footer p {
+    color: white;
 }

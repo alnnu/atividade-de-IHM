@@ -15,11 +15,26 @@ h2{
 form {
     display: flex;
     justify-content: center;
+    background-color: #C7FFED;
+    width: 750px;
+    padding: 2%;
+    margin: auto;
+    border-radius: 15px;
+    -webkit-box-shadow: 5px 5px 15px 5px rgba(0,143,140,0.21);
+    box-shadow: 5px 5px 15px 5px rgba(0,143,140,0.21);
+}
+
+h2{
+    margin-bottom: 15vh;
+    font-size: 30px;
 }
 
 form div input{
     height: 25px;
     width: 250px;
+}
+.esq{
+    margin-left: 5%;
 }
 
 #interesse{
@@ -28,11 +43,13 @@ form div input{
 }
 
 form div{
-    margin-left: 5%;
+
 }
 
 #mensagem{
     height: 200px;
     width: 415px;
 }
+
+
 

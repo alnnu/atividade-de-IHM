@@ -1,14 +1,26 @@
 .imageCenter{
     margin: auto;
-    width: 50%;
-    height: 75%;
+    width: 250px;
+
 
 }
 .textoCentro{
     width: 50%;
     margin: auto;
+
+}
+
+.tituloPagina{
+    margin-bottom: 15vh;
+}
+.pessoas{
+    display: flex;
+    justify-content: center;
+}
+p{
+    text-align: center;
 }
 img{
-    width: 50%;
-    height: 75%;
+    width: 250px;
+    height: 250px;
 }

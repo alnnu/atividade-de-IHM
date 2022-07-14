@@ -1,0 +1,15 @@
+.display{
+    margin-top: 5%;
+    margin-bottom: 5%;
+    display: flex;
+    justify-content: center;
+}
+
+h3{
+    text-align: center;
+}
+
+.meio{
+    margin-left: 10%;
+    margin-right: 10%;
+}

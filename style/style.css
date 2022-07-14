@@ -49,6 +49,10 @@ h1, h2, h3{
     color: #015958;
 }
 
+.tituloPagina{
+    margin-bottom: 15vh;
+}
+
 p{
     text-align: justify;
     text-justify: inter-word;
